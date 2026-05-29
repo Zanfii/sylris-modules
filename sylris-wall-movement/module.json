@@ -1,0 +1,15 @@
+{
+  "id": "sylris-wall-movement",
+  "title": "Sylris Wall Movement",
+  "description": "A module to teleport a token if the path would intersect a wall",
+  "version": "0.0.1",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "esmodules": ["script.js"],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  }
+}
+

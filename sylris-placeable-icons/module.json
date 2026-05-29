@@ -1,0 +1,22 @@
+{
+  "id": "sylris-placeable-icons",
+  "title": "Sylris Placeables Images",
+  "description": "Adds the token image to placeables on the placeable tab.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Zanfi"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "esmodules": [
+    "script.js"
+  ],
+  "styles": [
+    "styles.css"
+  ]
+}

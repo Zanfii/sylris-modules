@@ -1,0 +1,15 @@
+{
+  "id": "sylris-quick-delete",
+  "title": "Sylris Quick Delete",
+  "description": "A small button to delete messages quickly",
+  "version": "0.0.1",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "esmodules": ["script.js"],
+  "styles": ["styles.css"],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  }
+}

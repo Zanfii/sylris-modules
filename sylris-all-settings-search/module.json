@@ -1,0 +1,18 @@
+{
+  "id": "sylris-all-settings-search",
+  "title": "All Settings Search",
+  "description": "Adds a single searchable browser for all Foundry VTT settings across core, system, and active modules, and improves SettingsConfig searching.",
+  "version": "1.0.7",
+  "authors": [{"name": "Vibe coded crap that has no author"}],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "esmodules": [
+    "scripts/all-settings-search.js"
+  ],
+  "styles": [
+    "styles/all-settings-search.css"
+  ]
+}
